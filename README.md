@@ -104,7 +104,7 @@ Schedule status is based on the project's configured reference date, and the inc
 
 ![Project and Contractor Analysis](powerbi/page-2-project-contractor-analysis.png)
 
-For the interactive report, see [`powerbi/Infrastructure_Project_Financial_Analytics.pbix`](powerbi/Infrastructure_Project_Financial_Analytics.pbix).
+For the interactive report, see the [Power BI report](powerbi/Infraestructure_Project_Financial_Analytics.pbix).
 
 ## Project Structure
 
