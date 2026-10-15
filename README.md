@@ -94,6 +94,18 @@ This portfolio project uses sample data. The figures demonstrate the analytical 
 
 Schedule status is based on the project's configured reference date, and the incremental `MERGE` demonstration is not yet integrated into the complete clean-data-to-Gold pipeline.
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](powerbi/page-1-executive-overview.png)
+
+### Project and Contractor Analysis
+
+![Project and Contractor Analysis](powerbi/page-2-project-contractor-analysis.png)
+
+For the interactive report, see [`powerbi/Infrastructure_Project_Financial_Analytics.pbix`](powerbi/Infrastructure_Project_Financial_Analytics.pbix).
+
 ## Project Structure
 
 - `notebooks/` — Databricks notebooks.
