@@ -94,7 +94,11 @@ This portfolio project uses sample data. The figures demonstrate the analytical 
 
 Schedule status is based on the project's configured reference date, and the incremental `MERGE` demonstration is not yet integrated into the complete clean-data-to-Gold pipeline.
 
-## Dashboard Preview
+## Interactive Power BI Dashboard
+
+Explore the interactive report in your browser:
+
+[**Open the Infrastructure Project Financial Analytics Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiY2FhZDIwYmQtZmUxNC00NTAwLTlkZjktODk1ODlkMDQ0ZDY5IiwidCI6ImRhZjc5OTBlLThhM2YtNDA5Yy05Yjc2LTJhNTQ3NTA5ODAwMCIsImMiOjR9)
 
 ### Executive Overview
 
@@ -104,7 +108,9 @@ Schedule status is based on the project's configured reference date, and the inc
 
 ![Project and Contractor Analysis](powerbi/page-2-project-contractor-analysis.png)
 
-For the interactive report, see the [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiY2FhZDIwYmQtZmUxNC00NTAwLTlkZjktODk1ODlkMDQ0ZDY5IiwidCI6ImRhZjc5OTBlLThhM2YtNDA5Yy05Yjc2LTJhNTQ3NTA5ODAwMCIsImMiOjR9).
+The dashboard provides visibility into project budgets, actual expenditure, budget utilization, monthly spending, contractor allocations, and remaining budgets.
+
+To inspect the report file locally, see the [Power BI report (.pbix)](powerbi/Infrastructure_Project_Financial_Analytics.pbix).
 
 ## Project Structure
 
