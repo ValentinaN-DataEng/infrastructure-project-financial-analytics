@@ -110,7 +110,7 @@ Explore the interactive report in your browser:
 
 The dashboard provides visibility into project budgets, actual expenditure, budget utilization, monthly spending, contractor allocations, and remaining budgets.
 
-To inspect the report file locally, see the [Power BI report (.pbix)](powerbi/Infrastructure_Project_Financial_Analytics.pbix).
+To inspect the report file locally, see the [Power BI report (.pbix)](powerbi/Infraestructure_Project_Financial_Analytics.pbix).
 
 ## Project Structure
 
