@@ -55,9 +55,44 @@ Expense validation rules identify invalid records before they enter the clean ex
 
 ## Business Results & Impact
 
-The dashboard consolidates financial and operational indicators into a single reporting experience. It enables users to compare budget utilization, examine monthly expenditure patterns, review contractor allocations, and identify projects that may warrant further investigation.
+### Business Problem
 
-The project demonstrates how data validation, consistent financial metrics, and dimensional modeling can support more reliable business reporting. It uses sample data; financial savings and operational improvements have not been measured.
+Infrastructure project teams need to monitor budget consumption, expenditures, contractor allocations, and project status across multiple projects. This solution consolidates these indicators into a structured analytical model and interactive dashboard.
+
+### Analytical Results
+
+Based on the sample dataset:
+
+- **Portfolio budget:** COP 8,850,000.
+- **Recorded expenditure:** COP 2,970,000.
+- **Overall budget utilization:** 33.56%.
+- **Projects analyzed:** 5.
+- **Contractors analyzed:** 4.
+
+The analysis also identifies:
+
+- **Highest budget utilization:** Drainage Upgrade West, at 47.78%.
+- **Largest project budget:** Treatment Plant Expansion, at COP 3,500,000.
+- **Highest monthly expenditure:** April 2026, at COP 800,000.
+- **Project status distribution:** 3 active, 1 completed, and 1 delayed.
+
+### Business Value
+
+The dashboard helps users:
+
+- Compare planned budgets with recorded expenditures.
+- Identify projects with higher budget utilization for further review.
+- Monitor monthly expenditure patterns.
+- Compare budget allocation across contractors.
+- Review remaining budgets and project status in one reporting interface.
+
+These outputs support financial monitoring and prioritization of further investigation. They do not establish that a project is over budget or that a contractor is underperforming.
+
+### Scope and Limitations
+
+This portfolio project uses sample data. The figures demonstrate the analytical workflow and dashboard capabilities; they are not evidence of actual savings or measured operational improvements.
+
+Schedule status is based on the project's configured reference date, and the incremental `MERGE` demonstration is not yet integrated into the complete clean-data-to-Gold pipeline.
 
 ## Project Structure
 
